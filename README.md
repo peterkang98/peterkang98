@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&fontColor=363636&height=200&section=header&text=Peter's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&fontColor=363636&height=200&section=header&text=Peter's%20GitHub&fontSize=90)
 <br>
 <h3 align="center">:pencil: 웹 개발을 공부하고 있는 주니어 개발자입니다. :pencil:</h3>
 <br>
