@@ -14,6 +14,12 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=plastic&logo=Insomnia&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=Amazon%20AWS&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=C%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%20Sharp-239120?style=plastic&logo=C%20Sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=plastic&logo=Android%20Studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=plastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSP-007396?style=plastic&logoColor=white" />
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=200&section=footer" />
