@@ -7,7 +7,7 @@
 <p align="center">   
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=Ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=plastic&logo=Ruby%20on%20Rails&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=Spring%20Boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=Next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white" />
