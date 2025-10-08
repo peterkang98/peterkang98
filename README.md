@@ -2,7 +2,7 @@
 <br>
 <h3 align="center">:pencil: 웹 개발을 공부하고 있는 개발자입니다. :pencil:</h3>
 <br>
-<br>
+
 <h3 align="center">:tv::computer: 사용해본 기술 :wrench::hammer:</h3>
 <p align="center">   
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=Spring%20Boot&logoColor=white" />
@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=C%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%20Sharp-239120?style=plastic&logo=C%20Sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=plastic&logo=Android%20Studio&logoColor=white" /> 
-  
 </p>
+<h3 align="center"><a href="https://velog.io/@peterkang98/posts" align="center">블로그 링크</a></h3>
+<br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=200&section=footer" />
