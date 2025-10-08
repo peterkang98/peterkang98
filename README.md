@@ -6,6 +6,7 @@
 <h3 align="center">:tv::computer: 사용해본 기술 :wrench::hammer:</h3>
 <p align="center">   
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=Spring%20Boot&logoColor=white" />
+   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=Thymeleaf&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=plastic&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=plastic&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=plastic&logoColor=white" />
@@ -26,5 +27,6 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=C%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%20Sharp-239120?style=plastic&logo=C%20Sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=plastic&logo=Android%20Studio&logoColor=white" /> 
+  
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=200&section=footer" />
